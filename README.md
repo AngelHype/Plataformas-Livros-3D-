@@ -3,8 +3,10 @@
 Bem-vindo(a) ao meu redirecionador! Aqui você encontra materiais de apoio, ferramentas, scripts e links para ajudar nos estudos da nossa turma.
 
 ## 🔧 Scripts Úteis
-- [Doritus (fazer tarefas] (https://doritus.mmrcoss.tech/)
+- [Doritus (fazer tarefas] - (https://doritus.mmrcoss.tech/)
+- [Alura (novo)] - (https://alura.mmrcoss.tech/)
 - [Central dos scripts] - (https://cmsphacks.xyz/)
+  
 
 ## 📖 Apostilas e Materiais DE PROFESSORES
 Materiais de estudo que são livres ou de domínio público.
