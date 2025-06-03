@@ -1,9 +1,10 @@
 # 📚 Repositório Educacional - Escola Pública SP
 
-Bem-vindo(a) ao nosso repositório! Aqui você encontra materiais de apoio, ferramentas, scripts e links para ajudar nos estudos da nossa turma.
+Bem-vindo(a) ao meu redirecionador! Aqui você encontra materiais de apoio, ferramentas, scripts e links para ajudar nos estudos da nossa turma.
 
 ## 🔧 Scripts Úteis
 - [Doritus (fazer tarefas] (https://doritus.mmrcoss.tech/)
+- [Central dos scripts] - (https://cmsphacks.xyz/)
 
 ## 📖 Apostilas e Materiais DE PROFESSORES
 Materiais de estudo que são livres ou de domínio público.
